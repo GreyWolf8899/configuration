@@ -7,5 +7,5 @@
  "ceshilai":"ceshilaiceshilai",
  "RoskakoriVoi":"https://lasi555.com/commonPage/mobileTopic/download.html",
  "Konfiguration":"構成",
- "Reis essen":"米を食べる",
+ "Reis essen":"米を食べる"
 }
