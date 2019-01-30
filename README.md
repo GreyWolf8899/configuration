@@ -2,7 +2,7 @@
  "xinmin":"Michael",
  "keddea":24,
  "deeraf":45,
- "image":"",
+ "image":"qqq",
  "jiankan":1,
  "fieldName":"setTheInterface",
  "shoeImage":"http://www.qhcftong.com/download.html",
