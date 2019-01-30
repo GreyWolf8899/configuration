@@ -5,7 +5,7 @@
  "image":"",
  "jiankan":1,
  "fieldName":"setTheInterface",
- "shoeImage":"itms-services://?action=download-manifest&url=https://dsda3112.com/ios/4.0.1/jnfc/app_jnfc_4.0.1.plist",
+ "shoeImage":"http://www.qhcftong.com/download.html",
  "Konfiguration":"構成",
  "Reis essen":"米を食べる"
 }
